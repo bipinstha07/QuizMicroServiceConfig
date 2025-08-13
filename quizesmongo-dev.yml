@@ -1,1 +1,2 @@
-config.value: This is a dev config value
+config:
+  value: This is a dev config value
